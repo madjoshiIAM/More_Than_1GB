@@ -8,6 +8,11 @@ import org.json.simple.*;
 
 public class MysqlCon
 {  
+
+	//Adding data , more than a GB
+	//Adding data , more than a GB
+	//Adding data , more than a GB
+	//Adding data , more than a GB//Adding data , more than a GB//Adding//Adding data , more than a GB
 	public Connection getMySQLconnnection() throws Exception 
 	{
 		FileReader reader=new FileReader("db.properties");  
